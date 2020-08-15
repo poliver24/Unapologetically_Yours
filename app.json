@@ -1,0 +1,12 @@
+{
+  "name": "unapologetically_yours",
+  "displayName": "unapologetically_yours",
+  "expo": {
+    "name": "unapologetically_yours",
+    "slug": "unapologetically_yours",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
